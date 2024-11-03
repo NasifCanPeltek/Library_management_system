@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1730633943 source:d:\c-c++-aselsan\odtu-metu-c\library_managment_system_v0.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
